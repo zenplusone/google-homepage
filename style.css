@@ -1,0 +1,80 @@
+body {
+    margin: 0 auto;
+}
+
+.header {
+    height: 200px;
+}
+
+.uplinks {
+
+}
+
+.uplinks-ul {
+    position: relative;
+    float: right;
+}
+
+.uplinks-li, .uplinks-li-img, .uplinks-li-last {
+    display: inline;
+    font-size: 13px;
+}
+
+.uplinks-li-img{
+
+}
+
+.uplinks-li-last {
+
+}
+
+.centerpart {
+
+}
+
+.google-logo {
+    text-align: center;
+
+}
+
+.search-box {
+  margin: 0 auto;
+  height: 44px;
+  width: 584px;
+}
+
+form {
+  display: inline-block;
+}
+
+.whynotenglish a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+}
+
+.footer-upbar {
+  height: 20px;
+}
+
+.footer-downbar {
+  height: 20px;
+}
+
+.ul-downlinks-left {
+  position: relative;
+  float: left;
+}
+
+.ul-downlinks-right {
+  position:relative;
+  float: right;
+}
